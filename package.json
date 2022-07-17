@@ -1,5 +1,5 @@
 {
-  "homepage": ":https://marcuscaiado.github.io/react-portfolio/",
+  "homepage": "https://marcuscaiado.github.io/react-portfolio/",
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -29,7 +29,7 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "  eject"
   },
   "eslintConfig": {
     "extends": [
